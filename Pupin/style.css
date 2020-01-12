@@ -39,9 +39,9 @@ nav {
 table {
     border-block: 5px;
     border-block-end-width: 2px;
-    border-color: blue(5, 0, 0, 0.89);
+    border-color: rgb(5, 0, 0, 0.89);
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
-    background-color: gray;
+    background-color: blue;
 
 }
