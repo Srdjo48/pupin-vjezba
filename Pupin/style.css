@@ -35,6 +35,12 @@ nav {
     width: auto;
     padding: 0 5 0 5;
     margin: 5px;
+aside {
+        display: inline-block;
+        width: 25px;
+        vertical-align: top;
+        padding: 0 0 0 8px;
+      }
 }
 table {
     border-block: 5px;
