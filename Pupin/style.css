@@ -1,0 +1,47 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: hsl(212, 54%, 93%);
+    width: 1250px;
+    text-align: left;
+    margin: 14px auto;
+    
+
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 900;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+p* {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+#Navodjenje {
+    font-style: italic;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+#bolduj {
+    font-style: italic;
+    font-weight: bold;
+}
+nav {
+    float: left;
+    width: auto;
+    padding: 0 5 0 5;
+    margin: 5px;
+}
+table {
+    border-block: 5px;
+    border-block-end-width: 2px;
+    border-color: rgba(5, 0, 0, 0.89);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: white;
+
+}
